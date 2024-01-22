@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803023668921",
+    "project_id": "online-chat-app-cc81b",
+    "storage_bucket": "online-chat-app-cc81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803023668921:android:1c55c0090193c623a6fd68",
+        "android_client_info": {
+          "package_name": "com.example.messengerbluetooth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ncz23O0X684vh-u27E5Wq9RA4m-D2Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
